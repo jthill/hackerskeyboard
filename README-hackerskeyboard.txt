@@ -1,8 +1,8 @@
-See http://code.google.com/p/hackerskeyboard/ for more details about
+See https://github.com/wuziq/hackerskeyboard for more details about
 this project. 
 
 Build instructions:
-  http://code.google.com/p/hackerskeyboard/wiki/BuildingFromSource
+  https://github.com/wuziq/hackerskeyboard/wiki/BuildingFromSource
 
 If you're planning to make changes that you intend to contribute to the
 project, please get in touch first, the code is currently in flux and
